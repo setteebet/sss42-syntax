@@ -1,18 +1,18 @@
 {
   "name": "sss42-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lottotor999✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"lottotor999",
-"เว็บเล่นหวยลาว",
-"ราคาจ่าย lottovip",
-"หวยหุ้นออนไลน์",
-"lottovip ฝากขั้นต่ํา"
-],
+  "version": "0.2.0",
+  "description": "lottotor999✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "lottotor999",
+    "เว็บเล่นหวยลาว",
+    "ราคาจ่าย lottovip",
+    "หวยหุ้นออนไลน์",
+    "lottovip ฝากขั้นต่ํา"
+  ],
   "repository": "https://github.com/setteebet/sss42-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
